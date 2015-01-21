@@ -2,7 +2,7 @@
 
 *This is italic.*
 
-**This is bold.**
+**This is an elephant.**
 
 *This is italic, but _this_ is both!*
 
